@@ -1,0 +1,56 @@
+===== ROUGE Score Summary =====
+Average ROUGE-1 F1: 0.2351
+Average ROUGE-2 F1: 0.0924
+Average ROUGE-L F1: 0.1146
+===============================
+
+Title & Introduction:
+  ROUGE-1: P=0.7456, R=0.1361, F1=0.2302
+  ROUGE-2: P=0.3014, R=0.0549, F1=0.0928
+  ROUGE-L: P=0.3816, R=0.0697, F1=0.1178
+
+Key Topics & Sections:
+  ROUGE-1: P=0.7491, R=0.1587, F1=0.2619
+  ROUGE-2: P=0.2667, R=0.0563, F1=0.0930
+  ROUGE-L: P=0.3395, R=0.0719, F1=0.1187
+
+Definitions & Key Terms:
+  ROUGE-1: P=0.5552, R=0.1243, F1=0.2032
+  ROUGE-2: P=0.1107, R=0.0247, F1=0.0404
+  ROUGE-L: P=0.2709, R=0.0607, F1=0.0991
+
+Methods & Approaches:
+  ROUGE-1: P=0.6914, R=0.1142, F1=0.1960
+  ROUGE-2: P=0.2392, R=0.0394, F1=0.0676
+  ROUGE-L: P=0.3477, R=0.0574, F1=0.0986
+
+Findings & Results:
+  ROUGE-1: P=0.6852, R=0.1446, F1=0.2389
+  ROUGE-2: P=0.1710, R=0.0360, F1=0.0595
+  ROUGE-L: P=0.3407, R=0.0719, F1=0.1188
+
+Important Statistics & Data:
+  ROUGE-1: P=0.7545, R=0.1634, F1=0.2686
+  ROUGE-2: P=0.3406, R=0.0736, F1=0.1210
+  ROUGE-L: P=0.3357, R=0.0727, F1=0.1195
+
+Applications & Use Cases:
+  ROUGE-1: P=0.7655, R=0.1432, F1=0.2413
+  ROUGE-2: P=0.3460, R=0.0646, F1=0.1088
+  ROUGE-L: P=0.3655, R=0.0684, F1=0.1152
+
+Challenges & Limitations:
+  ROUGE-1: P=0.7480, R=0.1462, F1=0.2446
+  ROUGE-2: P=0.3655, R=0.0712, F1=0.1192
+  ROUGE-L: P=0.3640, R=0.0711, F1=0.1190
+
+Future Scope & Recommendations:
+  ROUGE-1: P=0.8060, R=0.1689, F1=0.2793
+  ROUGE-2: P=0.4007, R=0.0837, F1=0.1385
+  ROUGE-L: P=0.4067, R=0.0852, F1=0.1409
+
+Conclusion & Summary:
+  ROUGE-1: P=0.7378, R=0.1071, F1=0.1870
+  ROUGE-2: P=0.3304, R=0.0478, F1=0.0835
+  ROUGE-L: P=0.3867, R=0.0561, F1=0.0980
+
