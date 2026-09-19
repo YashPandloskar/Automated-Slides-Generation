@@ -1,0 +1,219 @@
+{
+  "average": {
+    "rouge1": {
+      "precision": 0.9394,
+      "recall": 0.0639,
+      "f1": 0.1195
+    },
+    "rouge2": {
+      "precision": 0.7223,
+      "recall": 0.0491,
+      "f1": 0.0917
+    },
+    "rougeL": {
+      "precision": 0.8086,
+      "recall": 0.0558,
+      "f1": 0.1042
+    }
+  },
+  "sections": {
+    "intro": {
+      "title": "Introduction",
+      "rouge": {
+        "rouge1": {
+          "precision": 1.0,
+          "recall": 0.06436420722135008,
+          "f1": 0.12094395280235988
+        },
+        "rouge2": {
+          "precision": 0.9,
+          "recall": 0.05660377358490566,
+          "f1": 0.10650887573964497
+        },
+        "rougeL": {
+          "precision": 0.975609756097561,
+          "recall": 0.06279434850863422,
+          "f1": 0.11799410029498525
+        }
+      },
+      "ungrounded_numbers": [],
+      "n_bullets": 3
+    },
+    "topics": {
+      "title": "Key Topics",
+      "rouge": {
+        "rouge1": {
+          "precision": 0.9830508474576272,
+          "recall": 0.09105180533751962,
+          "f1": 0.16666666666666669
+        },
+        "rouge2": {
+          "precision": 0.8620689655172413,
+          "recall": 0.07861635220125786,
+          "f1": 0.1440922190201729
+        },
+        "rougeL": {
+          "precision": 0.9322033898305084,
+          "recall": 0.08634222919937205,
+          "f1": 0.15804597701149423
+        }
+      },
+      "ungrounded_numbers": [],
+      "n_bullets": 4
+    },
+    "methods": {
+      "title": "Methodology",
+      "rouge": {
+        "rouge1": {
+          "precision": 0.9555555555555556,
+          "recall": 0.06574923547400612,
+          "f1": 0.12303290414878398
+        },
+        "rouge2": {
+          "precision": 0.7272727272727273,
+          "recall": 0.04900459418070444,
+          "f1": 0.09182209469153516
+        },
+        "rougeL": {
+          "precision": 0.6666666666666666,
+          "recall": 0.045871559633027525,
+          "f1": 0.08583690987124463
+        }
+      },
+      "ungrounded_numbers": [],
+      "n_bullets": 3
+    },
+    "results": {
+      "title": "Findings & Results",
+      "rouge": {
+        "rouge1": {
+          "precision": 0.96,
+          "recall": 0.07350689127105667,
+          "f1": 0.13655761024182078
+        },
+        "rouge2": {
+          "precision": 0.8163265306122449,
+          "recall": 0.06134969325153374,
+          "f1": 0.11412268188302425
+        },
+        "rougeL": {
+          "precision": 0.94,
+          "recall": 0.07197549770290965,
+          "f1": 0.1337126600284495
+        }
+      },
+      "ungrounded_numbers": [],
+      "n_bullets": 3
+    },
+    "stats": {
+      "title": "Key Statistics",
+      "rouge": {
+        "rouge1": {
+          "precision": 0.9142857142857143,
+          "recall": 0.049766718506998445,
+          "f1": 0.0943952802359882
+        },
+        "rouge2": {
+          "precision": 0.4117647058823529,
+          "recall": 0.021806853582554516,
+          "f1": 0.04142011834319526
+        },
+        "rougeL": {
+          "precision": 0.5714285714285714,
+          "recall": 0.03110419906687403,
+          "f1": 0.058997050147492625
+        }
+      },
+      "ungrounded_numbers": [],
+      "n_bullets": 3
+    },
+    "applications": {
+      "title": "Applications",
+      "rouge": {
+        "rouge1": {
+          "precision": 0.8780487804878049,
+          "recall": 0.05642633228840126,
+          "f1": 0.10603829160530193
+        },
+        "rouge2": {
+          "precision": 0.6,
+          "recall": 0.03767660910518053,
+          "f1": 0.0709010339734121
+        },
+        "rougeL": {
+          "precision": 0.7073170731707317,
+          "recall": 0.045454545454545456,
+          "f1": 0.08541973490427099
+        }
+      },
+      "ungrounded_numbers": [],
+      "n_bullets": 3
+    },
+    "limits": {
+      "title": "Challenges & Limitations",
+      "rouge": {
+        "rouge1": {
+          "precision": 1.0,
+          "recall": 0.06349206349206349,
+          "f1": 0.11940298507462686
+        },
+        "rouge2": {
+          "precision": 0.9487179487179487,
+          "recall": 0.058823529411764705,
+          "f1": 0.11077844311377245
+        },
+        "rougeL": {
+          "precision": 1.0,
+          "recall": 0.06349206349206349,
+          "f1": 0.11940298507462686
+        }
+      },
+      "ungrounded_numbers": [],
+      "n_bullets": 3
+    },
+    "future": {
+      "title": "Future Scope",
+      "rouge": {
+        "rouge1": {
+          "precision": 0.9111111111111111,
+          "recall": 0.06466876971608833,
+          "f1": 0.12076583210603829
+        },
+        "rouge2": {
+          "precision": 0.75,
+          "recall": 0.052132701421800945,
+          "f1": 0.09748892171344166
+        },
+        "rougeL": {
+          "precision": 0.8666666666666667,
+          "recall": 0.061514195583596214,
+          "f1": 0.11487481590574375
+        }
+      },
+      "ungrounded_numbers": [],
+      "n_bullets": 3
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "rouge": {
+        "rouge1": {
+          "precision": 0.8529411764705882,
+          "recall": 0.046251993620414676,
+          "f1": 0.08774583963691376
+        },
+        "rouge2": {
+          "precision": 0.48484848484848486,
+          "recall": 0.025559105431309903,
+          "f1": 0.048558421851289835
+        },
+        "rougeL": {
+          "precision": 0.6176470588235294,
+          "recall": 0.03349282296650718,
+          "f1": 0.06354009077155826
+        }
+      },
+      "ungrounded_numbers": [],
+      "n_bullets": 3
+    }
+  }
+}

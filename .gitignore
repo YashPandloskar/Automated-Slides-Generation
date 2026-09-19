@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+# per-run working files (regenerable); finished decks are kept under examples/
+outputs/
+chroma/
+chromadb*/
+*.sqlite3

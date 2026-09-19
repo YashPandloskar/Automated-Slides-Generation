@@ -1,0 +1,239 @@
+{
+  "page01_img1.jpeg": {
+    "image": "page01_img1.jpeg",
+    "is_graph": false,
+    "kind": "photo",
+    "graph_type": "",
+    "title": "",
+    "x_axis": "",
+    "y_axis": "",
+    "data": [],
+    "description": "The image is a black and white illustration of a tree with a man standing next to it, and the text 'Elsevier' is visible in the image.",
+    "objects": [
+      "tree",
+      "man",
+      "sign",
+      "text",
+      "scroll",
+      "book",
+      "banner",
+      "logo",
+      "flag",
+      "banner with text"
+    ],
+    "text_in_image": "Elsevier",
+    "confidence": "unverified",
+    "error": ""
+  },
+  "page01_img2.jpeg": {
+    "image": "page01_img2.jpeg",
+    "is_graph": false,
+    "kind": "other",
+    "graph_type": "",
+    "title": "",
+    "x_axis": "",
+    "y_axis": "",
+    "data": [],
+    "description": "The image is a logo or emblem for a company or organization. It features the name 'Procedia' in a stylized font, accompanied by the tagline 'Computer Science'. The logo is likely used for branding and identification purposes.",
+    "objects": [],
+    "text_in_image": "Procedia Computer Science",
+    "confidence": "unverified",
+    "error": ""
+  },
+  "page05_img1.jpeg": {
+    "image": "page05_img1.jpeg",
+    "is_graph": false,
+    "kind": "flowchart",
+    "graph_type": "",
+    "title": "",
+    "x_axis": "",
+    "y_axis": "",
+    "data": [],
+    "description": "The image is a flowchart that outlines a process or system, with various steps and decision points connected by arrows, and it appears to be related to a scientific or technical field, possibly involving data analysis, machine learning, or a similar process.",
+    "objects": [],
+    "text_in_image": "",
+    "confidence": "consistent",
+    "error": ""
+  },
+  "page07_img1.jpeg": {
+    "image": "page07_img1.jpeg",
+    "is_graph": false,
+    "kind": "flowchart",
+    "graph_type": "",
+    "title": "",
+    "x_axis": "",
+    "y_axis": "",
+    "data": [],
+    "description": "The image is a flowchart that outlines a process for cancer research, including steps such as searching for base learners, optimizing the training data, and testing the model on a validation set. The flowchart also includes a section for data encoding and a separate section for model classification. It is a visual representation of a scientific or technical process, with boxes and arrows connecting the different steps.",
+    "objects": [],
+    "text_in_image": "",
+    "confidence": "consistent",
+    "error": ""
+  },
+  "page08_img1.jpeg": {
+    "image": "page08_img1.jpeg",
+    "is_graph": true,
+    "kind": "graph",
+    "graph_type": "line",
+    "title": "Market Share of Competitors",
+    "x_axis": "Competitors",
+    "y_axis": "Market Share (%)",
+    "data": [
+      {
+        "series": "Market Share",
+        "points": [
+          {
+            "label": "1",
+            "value": 100.0
+          },
+          {
+            "label": "2",
+            "value": 90.0
+          },
+          {
+            "label": "3",
+            "value": 80.0
+          },
+          {
+            "label": "4",
+            "value": 70.0
+          },
+          {
+            "label": "5",
+            "value": 60.0
+          },
+          {
+            "label": "6",
+            "value": 50.0
+          },
+          {
+            "label": "7",
+            "value": 40.0
+          },
+          {
+            "label": "8",
+            "value": 30.0
+          },
+          {
+            "label": "9",
+            "value": 20.0
+          },
+          {
+            "label": "10",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "series": "Competition",
+        "points": [
+          {
+            "label": "1",
+            "value": 10.0
+          },
+          {
+            "label": "2",
+            "value": 20.0
+          },
+          {
+            "label": "3",
+            "value": 30.0
+          },
+          {
+            "label": "4",
+            "value": 40.0
+          },
+          {
+            "label": "5",
+            "value": 50.0
+          },
+          {
+            "label": "6",
+            "value": 60.0
+          },
+          {
+            "label": "7",
+            "value": 70.0
+          },
+          {
+            "label": "8",
+            "value": 80.0
+          },
+          {
+            "label": "9",
+            "value": 90.0
+          },
+          {
+            "label": "10",
+            "value": 100.0
+          }
+        ]
+      }
+    ],
+    "description": "Line chart of Market Share of Competitors",
+    "objects": [],
+    "text_in_image": "",
+    "confidence": "conflict",
+    "error": ""
+  },
+  "page10_img1.jpeg": {
+    "image": "page10_img1.jpeg",
+    "is_graph": true,
+    "kind": "graph",
+    "graph_type": "scatter",
+    "title": "Predicted Label",
+    "x_axis": "True Label",
+    "y_axis": "Predicted Label",
+    "data": [],
+    "description": "Scatter chart of Predicted Label",
+    "objects": [],
+    "text_in_image": "GIFTS",
+    "confidence": "conflict",
+    "error": ""
+  },
+  "page10_img2.jpeg": {
+    "image": "page10_img2.jpeg",
+    "is_graph": true,
+    "kind": "graph",
+    "graph_type": "scatter",
+    "title": "Predicted Label",
+    "x_axis": "True Label",
+    "y_axis": "Predicted Label",
+    "data": [],
+    "description": "Scatter chart of Predicted Label",
+    "objects": [],
+    "text_in_image": "PREDICTED LABEL",
+    "confidence": "conflict",
+    "error": ""
+  },
+  "page11_img1.jpeg": {
+    "image": "page11_img1.jpeg",
+    "is_graph": true,
+    "kind": "graph",
+    "graph_type": "scatter",
+    "title": "Predicted Label",
+    "x_axis": "True Label",
+    "y_axis": "Predicted Label",
+    "data": [],
+    "description": "Scatter chart of Predicted Label",
+    "objects": [],
+    "text_in_image": "",
+    "confidence": "conflict",
+    "error": ""
+  },
+  "page11_img2.jpeg": {
+    "image": "page11_img2.jpeg",
+    "is_graph": true,
+    "kind": "graph",
+    "graph_type": "scatter",
+    "title": "Predicted Label",
+    "x_axis": "Time",
+    "y_axis": "True Label",
+    "data": [],
+    "description": "Scatter chart of Predicted Label",
+    "objects": [],
+    "text_in_image": "Predicted label",
+    "confidence": "conflict",
+    "error": ""
+  }
+}

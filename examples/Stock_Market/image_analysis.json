@@ -1,0 +1,270 @@
+{
+  "page03_img1.jpeg": {
+    "image": "page03_img1.jpeg",
+    "is_graph": false,
+    "kind": "other",
+    "graph_type": "",
+    "title": "",
+    "x_axis": "",
+    "y_axis": "",
+    "data": [],
+    "description": "",
+    "objects": [],
+    "text_in_image": "with change detection",
+    "confidence": "conflict",
+    "error": ""
+  },
+  "page05_img1.png": {
+    "image": "page05_img1.png",
+    "is_graph": true,
+    "kind": "graph",
+    "graph_type": "line",
+    "title": "Predicted vs. Actual",
+    "x_axis": "Predicted",
+    "y_axis": "Actual",
+    "data": [
+      {
+        "series": "Predicted Value",
+        "points": [
+          {
+            "label": "1",
+            "value": 100.0
+          },
+          {
+            "label": "2",
+            "value": 120.0
+          },
+          {
+            "label": "3",
+            "value": 140.0
+          },
+          {
+            "label": "4",
+            "value": 160.0
+          },
+          {
+            "label": "5",
+            "value": 180.0
+          },
+          {
+            "label": "6",
+            "value": 200.0
+          },
+          {
+            "label": "7",
+            "value": 220.0
+          },
+          {
+            "label": "8",
+            "value": 240.0
+          },
+          {
+            "label": "9",
+            "value": 260.0
+          },
+          {
+            "label": "10",
+            "value": 280.0
+          }
+        ]
+      },
+      {
+        "series": "Actual Value",
+        "points": [
+          {
+            "label": "1",
+            "value": 100.0
+          },
+          {
+            "label": "2",
+            "value": 120.0
+          },
+          {
+            "label": "3",
+            "value": 140.0
+          },
+          {
+            "label": "4",
+            "value": 160.0
+          },
+          {
+            "label": "5",
+            "value": 180.0
+          },
+          {
+            "label": "6",
+            "value": 200.0
+          },
+          {
+            "label": "7",
+            "value": 220.0
+          },
+          {
+            "label": "8",
+            "value": 240.0
+          },
+          {
+            "label": "9",
+            "value": 260.0
+          },
+          {
+            "label": "10",
+            "value": 280.0
+          }
+        ]
+      }
+    ],
+    "description": "Line chart of Predicted vs. Actual",
+    "objects": [],
+    "text_in_image": "",
+    "confidence": "conflict",
+    "error": ""
+  },
+  "page05_img2.png": {
+    "image": "page05_img2.png",
+    "is_graph": true,
+    "kind": "graph",
+    "graph_type": "line",
+    "title": "Predicted vs Actual",
+    "x_axis": "Time",
+    "y_axis": "Value",
+    "data": [],
+    "description": "Line chart of Predicted vs Actual",
+    "objects": [
+      "Graph",
+      "Chart",
+      "Data",
+      "Line Graph",
+      "Prediction",
+      "Line Chart",
+      "Data Chart",
+      "Graph Paper",
+      "Predictive Graph",
+      "Data Chart with Prediction"
+    ],
+    "text_in_image": "Predicted vs Actual",
+    "confidence": "conflict",
+    "error": ""
+  },
+  "page06_img1.png": {
+    "image": "page06_img1.png",
+    "is_graph": true,
+    "kind": "graph",
+    "graph_type": "line",
+    "title": "Predicted vs Actual",
+    "x_axis": "Predicted",
+    "y_axis": "Actual",
+    "data": [],
+    "description": "Line chart of Predicted vs Actual",
+    "objects": [],
+    "text_in_image": "Predicted vs Actual",
+    "confidence": "conflict",
+    "error": ""
+  },
+  "page06_img2.png": {
+    "image": "page06_img2.png",
+    "is_graph": true,
+    "kind": "graph",
+    "graph_type": "line",
+    "title": "Predicted vs Actual",
+    "x_axis": "Predicted",
+    "y_axis": "Actual",
+    "data": [
+      {
+        "series": "Predicted",
+        "points": [
+          {
+            "label": "1",
+            "value": 100.0
+          },
+          {
+            "label": "2",
+            "value": 150.0
+          },
+          {
+            "label": "3",
+            "value": 200.0
+          },
+          {
+            "label": "4",
+            "value": 250.0
+          },
+          {
+            "label": "5",
+            "value": 300.0
+          },
+          {
+            "label": "6",
+            "value": 350.0
+          },
+          {
+            "label": "7",
+            "value": 400.0
+          },
+          {
+            "label": "8",
+            "value": 450.0
+          },
+          {
+            "label": "9",
+            "value": 500.0
+          },
+          {
+            "label": "10",
+            "value": 550.0
+          }
+        ]
+      },
+      {
+        "series": "Actual",
+        "points": [
+          {
+            "label": "1",
+            "value": 100.0
+          },
+          {
+            "label": "2",
+            "value": 150.0
+          },
+          {
+            "label": "3",
+            "value": 200.0
+          },
+          {
+            "label": "4",
+            "value": 250.0
+          },
+          {
+            "label": "5",
+            "value": 300.0
+          },
+          {
+            "label": "6",
+            "value": 350.0
+          },
+          {
+            "label": "7",
+            "value": 400.0
+          },
+          {
+            "label": "8",
+            "value": 450.0
+          },
+          {
+            "label": "9",
+            "value": 500.0
+          },
+          {
+            "label": "10",
+            "value": 550.0
+          }
+        ]
+      }
+    ],
+    "description": "Line chart of Predicted vs Actual",
+    "objects": [],
+    "text_in_image": "Predictive Test After Intensity",
+    "confidence": "consistent",
+    "error": ""
+  }
+}
